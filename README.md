@@ -5,3 +5,4 @@ exercises and projects.
 - Name: Logan Armstrong
 - Course: Computer Science II
 - School: Indiana Tech
+- Email: LSArmstrong01@indianatech.net
