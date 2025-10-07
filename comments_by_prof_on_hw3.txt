@@ -1,0 +1,25 @@
+1. Grading Rubric:
+   * String methods:          
+    * Receipt Formatting     10 out of 10
+    * Data Processing        12 out of 12
+    * Text Analysis          13 out of 13
+   * Regular Expression:     
+    * Pattern Finding        12 out of 10
+    * Format Validation      12 out of 12
+    * Information Extraction 13 out of 13
+   * Combined:                
+    * Cleaning Pipeline      10 out of 10
+    * Smart Replace          10 out of 10
+   * Application:            
+    * Log Analysis           10 out of 10 
+
+Total: 100 out of 100
+
+Great job, Logan!
+
+   Details:
+   Line 40: If user just input one name, this will repeat the name.
+   Line 67: Nice checking against division by 0 error
+   Line 74: Great checking against empty dict
+   Line 115: ?
+   Line 131-137: Nice checking against boundary capitalize_sentences
