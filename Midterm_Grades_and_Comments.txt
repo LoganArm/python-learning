@@ -1,0 +1,34 @@
+** This contains only grades and comments for Part II of Mid Term**
+Great job, Logan!
+
+Grading Rubrics:
+    Problem 1:
+    - add_student:                  5 out of 5 points
+    - get_class_average:            10 out of 10 points
+    - get_passing_students:         10 out of 10 bonus points
+
+    Problem 2:
+    - find_common_students:         5 out of 5 points
+    - find_all_students:            5 out of 5 points
+    - find_unique_to_course1:       5 out of 5 points
+    - check_enrollment:             10 out of 10 points (Bonus)
+
+    Problem 3:
+    - calculate_daily_averages:     5 out of 5 points
+    - find_hottest_day:             5 out of 5 points
+    - count_cold_readings:          5 out of 5 points
+    - normalize_temperatures:       5 out of 5 points
+
+    Problem 4:
+    - clean_name:                   5 out of 5 points
+    - validate_email:               5 out of 5 points
+    - format_phone:                 5 out of 5 points
+    - process_registration:         5 out of 5 points
+
+    Problem 5:
+    - find_all_phones:              5 out of 5 points
+    - find_all_prices:              5 out of 5 points
+    - extract_emails:               5 out of 5 points
+    - validate_student_id:          5 out of 5 points
+
+Total Points: 110 out of 35
