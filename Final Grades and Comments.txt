@@ -1,0 +1,32 @@
+Part I              38.5 out of 40
+Part II             130 out of 50
+Part II Grading Rubrics:
+Problem 1:              25 out of 25
+    Case insensitive:   5 out of 5
+    Open and read file: 10 out of 10
+    Count line:         10 out of 10
+    
+Problem 2:          25 out of 25
+    __init__:       5 out of 5
+    deposit:        5 out of 5
+    withdraw:       10 out of 10
+    get_balance:    5 out of 5
+
+Problem 3:              30 out of 25 Great job, Logan--nice and clean code!
+    convert numbers:    5 out of 5
+    parse operators:    10 out of 10 
+    Exception handling: 15 out of 10
+
+Problem 4:          25 out of 25
+    Ignore spaces:  5 out of 5
+    Ignore cases:   4 out of 5
+    Base cases:     5 out of 5
+    Recursive step: 10 out of 10
+
+Problem 5:                  25 out of 25
+    Student average:         5 out of 5
+    Filter Passing:          5 out of 5
+    Filter Failing:          5 out of 5
+    Highest average student: 5 out of 5
+    class average:           5 out of 5
+
